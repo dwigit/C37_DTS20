@@ -215,6 +215,7 @@ footer {
   float: right;
   font-size: 25px;
   margin-top: 21px;
+  display: none;
 }
 
 .animate-arrow {
